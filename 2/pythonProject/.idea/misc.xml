@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Black">
+    <option name="sdkName" value="D:\anaconda3" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id>Async 代码和 promiseJavaScript 和 TypeScript</id>
+          </State>
+          <State>
+            <id>Cucumber</id>
+          </State>
+          <State>
+            <id>Django</id>
+          </State>
+          <State>
+            <id>Dockerfile</id>
+          </State>
+          <State>
+            <id>EditorConfig</id>
+          </State>
+          <State>
+            <id>Import 和依赖项JavaScript 和 TypeScript</id>
+          </State>
+          <State>
+            <id>JavaScript 和 TypeScript</id>
+          </State>
+          <State>
+            <id>Python</id>
+          </State>
+          <State>
+            <id>SQL</id>
+          </State>
+          <State>
+            <id>YAML</id>
+          </State>
+          <State>
+            <id>switch 语句问题JavaScript 和 TypeScript</id>
+          </State>
+          <State>
+            <id>代码样式问题JavaScript 和 TypeScript</id>
+          </State>
+          <State>
+            <id>单元测试JavaScript 和 TypeScript</id>
+          </State>
+          <State>
+            <id>可能不合需要的代码结构JavaScript 和 TypeScript</id>
+          </State>
+          <State>
+            <id>国际化</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>用户定义</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="D:\anaconda3" project-jdk-type="Python SDK" />
+</project>
